@@ -6,7 +6,6 @@
   "scripts": {
     "build": "webpack"
   },
-  "repository": "https://github.com/StephenGrider/WebpackProject",
   "author": "",
   "license": "ISC",
   "dependencies": {
